@@ -1,0 +1,256 @@
+{
+  "/pet/{petId}/uploadImage": {
+    "post": {
+      "defaultIndex": 0,
+      "responses": [
+        {
+          "response": {
+            "message": "this is a default message"
+          },
+          "statusCode": 400
+        },
+        {
+          "response": {
+            "message": "this is a default message"
+          },
+          "statusCode": 200
+        }
+      ]
+    }
+  },
+  "/pet": {
+    "post": {
+      "defaultIndex": 0,
+      "responses": [
+        {
+          "response": {
+            "message": "this is a default message"
+          },
+          "statusCode": 400
+        }
+      ]
+    },
+    "put": {
+      "defaultIndex": 0,
+      "responses": [
+        {
+          "response": {
+            "message": "this is a default message"
+          },
+          "statusCode": 400
+        }
+      ]
+    }
+  },
+  "/pet/findByStatus": {
+    "get": {
+      "defaultIndex": 0,
+      "responses": [
+        {
+          "response": {
+            "message": "this is a default message"
+          },
+          "statusCode": 400
+        }
+      ]
+    }
+  },
+  "/pet/findByTags": {
+    "get": {
+      "defaultIndex": 0,
+      "responses": [
+        {
+          "response": {
+            "message": "this is a default message"
+          },
+          "statusCode": 400
+        }
+      ]
+    }
+  },
+  "/pet/{petId}": {
+    "get": {
+      "defaultIndex": 0,
+      "responses": [
+        {
+          "response": {
+            "message": "this is a default message"
+          },
+          "statusCode": 400
+        }
+      ]
+    },
+    "post": {
+      "defaultIndex": 0,
+      "responses": [
+        {
+          "response": {
+            "message": "this is a default message"
+          },
+          "statusCode": 400
+        }
+      ]
+    },
+    "delete": {
+      "defaultIndex": 0,
+      "responses": [
+        {
+          "response": {
+            "message": "this is a default message"
+          },
+          "statusCode": 400
+        }
+      ]
+    }
+  },
+  "/store/order": {
+    "post": {
+      "defaultIndex": 0,
+      "responses": [
+        {
+          "response": {
+            "message": "this is a default message"
+          },
+          "statusCode": 400
+        }
+      ]
+    }
+  },
+  "/store/order/{orderId}": {
+    "get": {
+      "defaultIndex": 0,
+      "responses": [
+        {
+          "response": {
+            "message": "this is a default message"
+          },
+          "statusCode": 400
+        }
+      ]
+    },
+    "delete": {
+      "defaultIndex": 0,
+      "responses": [
+        {
+          "response": {
+            "message": "this is a default message"
+          },
+          "statusCode": 400
+        }
+      ]
+    }
+  },
+  "/store/inventory": {
+    "get": {
+      "defaultIndex": 0,
+      "responses": [
+        {
+          "response": {
+            "message": "this is a default message"
+          },
+          "statusCode": 400
+        }
+      ]
+    }
+  },
+  "/user/createWithArray": {
+    "post": {
+      "defaultIndex": 0,
+      "responses": [
+        {
+          "response": {
+            "message": "this is a default message"
+          },
+          "statusCode": 400
+        }
+      ]
+    }
+  },
+  "/user/createWithList": {
+    "post": {
+      "defaultIndex": 0,
+      "responses": [
+        {
+          "response": {
+            "message": "this is a default message"
+          },
+          "statusCode": 400
+        }
+      ]
+    }
+  },
+  "/user/{username}": {
+    "get": {
+      "defaultIndex": 0,
+      "responses": [
+        {
+          "response": {
+            "message": "this is a default message"
+          },
+          "statusCode": 400
+        }
+      ]
+    },
+    "put": {
+      "defaultIndex": 0,
+      "responses": [
+        {
+          "response": {
+            "message": "this is a default message"
+          },
+          "statusCode": 400
+        }
+      ]
+    },
+    "delete": {
+      "defaultIndex": 0,
+      "responses": [
+        {
+          "response": {
+            "message": "this is a default message"
+          },
+          "statusCode": 400
+        }
+      ]
+    }
+  },
+  "/user/login": {
+    "get": {
+      "defaultIndex": 0,
+      "responses": [
+        {
+          "response": {
+            "message": "this is a default message"
+          },
+          "statusCode": 400
+        }
+      ]
+    }
+  },
+  "/user/logout": {
+    "get": {
+      "defaultIndex": 0,
+      "responses": [
+        {
+          "response": {
+            "message": "this is a default message"
+          },
+          "statusCode": 400
+        }
+      ]
+    }
+  },
+  "/user": {
+    "post": {
+      "defaultIndex": 0,
+      "responses": [
+        {
+          "response": {
+            "message": "this is a default message"
+          },
+          "statusCode": 400
+        }
+      ]
+    }
+  }
+}
